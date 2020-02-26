@@ -1,7 +1,7 @@
 package com.mycompany.app;
 
 /**
- * Hello world AWS!
+ * Hello world my first AWS!
  */
 public class App
 {
